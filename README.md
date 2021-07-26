@@ -1,7 +1,5 @@
--  안녕하세요. 박재민입니다.
--  개발자가 되기 위해 매일 공부하고 있습니다.
--  1 일 1 commit.
--  꾸준함의 힘을 믿어요.
+- Studying algorithms with Baekjoon and SW Expert Academy.
+- Daily Commit 2021.06.24 ~ .
 
 <!---
 jacob3015/jacob3015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
