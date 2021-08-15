@@ -1,5 +1,4 @@
-- Studying algorithms with Baekjoon and SW Expert Academy.
-- Studying algorithms with Algorithmic Problem Solving Strategies 2021.08.11 ~ .
+- Studying algorithms with Baekjoon and SW Expert Academy 2021.06.24 ~ .
 - Daily Commit 2021.06.24 ~ .
 
 <!---
