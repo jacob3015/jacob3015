@@ -1,4 +1,4 @@
-- Studying algorithms with Baekjoon and SW Expert Academy 2021.06.24 ~ .
+- Studying algorithms 2021.06.24 ~ .
 - Daily Commit 2021.06.24 ~ .
 
 <!---
