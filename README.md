@@ -1,5 +1,4 @@
 - Studying algorithms 2021.06.24 ~ .
-- Daily Commit 2021.06.24 ~ .
 
 <!---
 jacob3015/jacob3015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
