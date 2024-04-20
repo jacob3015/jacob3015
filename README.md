@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 * 박재민
 * 국민대학교 소프트웨어융합대학 소프트웨어학부 소프트웨어전공 (2015.03 ~ 2022.02)
 * Playdata AI Bootcamp 20기 (2022.05 ~ 2022.11)
-* [Vueron](http://vueron.org/) (2022.01 ~ )
+* [Vueron](http://vueron.org/) (2023.01 ~ 2024.04)
 
 ## 📑 Portfolio
 * 🔗 [AI 계장님 - 보험금 청구서 텍스트 인식 웹 서비스](https://github.com/playdata-aichief-ai/aichief-springboot-backend)
