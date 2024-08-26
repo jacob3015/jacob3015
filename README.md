@@ -3,7 +3,7 @@ jacob3015/jacob3015 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ## 👏 소개
-
+* 안녕하세요, 재미를 찾아 다니는 개발자입니다. 음악과 여행, 스키와 수영 그리고 판타지와 예능을 좋아합니다.
 ## 💼 경력
 * [Vueron](http://vueron.org/) (2023.01 ~ 2024.04)
 ## 📑 교육
