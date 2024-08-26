@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 * 국민대학교 소프트웨어융합대학 소프트웨어학부 소프트웨어전공 (2015.03 ~ 2022.02)
 ## 🌟 프로젝트
 ### In Vueron
-* 차세대 객체 인지 시스템 (서버 개발)
-* 김포공항 출국장 스마트 군중 분석 시스템 (서버 개발)
-* 올림픽대로 여의상류IC 지능형 도로 교통 시스템 (웹 서비스 유지보수)
+* 차세대 객체 인지 시스템
+* 김포공항 출국장 스마트 군중 분석 시스템
+* 올림픽대로 여의상류IC 지능형 도로 교통 시스템
 ### In Playdata Bootcamp
 * 🔗 [AI 계장님 - 보험금 청구서 텍스트 인식 웹 서비스](https://github.com/playdata-aichief-ai/aichief-springboot-backend)
 * 🔗 [Welcome, JEJU - 제주도 관광지 검색 웹 서비스](https://github.com/playdata-july-web/july-spring-fullstack)
