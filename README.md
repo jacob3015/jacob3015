@@ -3,55 +3,32 @@ jacob3015/jacob3015 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ## 👏 Introduce
-Java, Spring Boot 기반의 백엔드 개발자.  
+> 안녕하세요, 스타트업에서 15개월 동안 시스템 개발 및 운영을 담당한 박재민입니다.
+PoC부터 프로덕션 배포까지 전 과정에 참여하며 일일 200만 건 이상의 데이터를 안정적으로 처리하는 시스템을 구축하는 데 기여했습니다.
+gRPC와 Redis 등의 기술 도입을 통해 시스템 운영 효율성과 확장성을 개선한 경험이 있으며, 이러한 경험을 바탕으로 팀에 가치를 더하는 개발자로 성장하고자 합니다.
+새로운 기술을 활용해 실질적인 문제를 해결하는 데 관심이 많습니다.
 
-스타트업에 첫번째 백엔드 개발자로 입사해 15개월 간 시스템 개발 및 운영에 기여했습니다.  
-gRPC 도입과 서버 개발 및 운영을 통해 일일 200만건 이상의 실시간 데이터 처리 시스템 구축 및 운영에 기여한 경험이 있으며,  
-웹 서버와 웹 클라이언트 유지 보수 및 기능 개선을 통해 프로젝트의 PoC에서 납품까지 참여한 이력이 있습니다.  
-새로운 기술 도입과 시스템 개선에 열정을 가지고 임하고 있으며, 팀에 필요한 인재가 되기 위해 노력하고 있습니다.
-## 🔨 Skills
-Languages
-* Java
-* JavaScript
-* HTML/CSS
-* SQL
+**핵심 역량**  
+- 안정적이고 확장 가능한 애플리케이션 서버 개발  
+- 효율적인 통신 프로토콜 설계 및 유지 보수 자동화  
+- 실시간 데이터 분석 시스템 개발 경험
 
-Frameworks & Libraries
-* Spring Boot
-* Spring Data Redis
-* Spring Web MVC
-* Vue.js
-* MyBatis
-* gRPC
-
-Infrastructures & Envrionments
-* PostgreSQL
-* Redis
-* Nginx
-* Linux
-
-Tools
-* Git
 ## 💼 Experiences
-### Vueron (2023.01 ~ 2024.04)
-담당 업무
-* 서버 개발 및 운영
-* gRPC 도입
-* 웹 서버 유지 보수 및 기능 개선
-* 웹 클라이언트 유지 보수 및 기능 개선
+**Vueron | 2023.01 - 2024.04**
+- 애플리케이션 서버 개발
+- 프로토콜 설계 및 유지 보수
+- 패키지 저장소 구축
+- 웹 서비스 유지 보수
 
-주요 성과
-* 일일 200만건 이상의 실시간 데이터 처리 시스템 구축
-* gRPC 도입으로 시스템 운영 비용 절감
-* [gRPC 도입 사례에 대해 기업 기술 블로그 게재](https://medium.com/vueron-technology/implementation-of-grpc-and-protobuf-in-vueron-f1907a41766b)
-* 시스템 PoC에서 납품으로 전환
+## 🎓 Education
+**Kookmin University**
+- Bachelor of Software
+
+## 🔨 Skills
+Java, JavaScript, SQL, Spring Boot, Vue.js, MyBatis, Hibernate, PostgreSQL, Redis, gRPC, Protocol Buffer, REST, Nginx, Amazon EC2, Git
+
 ## 🌟 Projects
-### In Vueron
-* 김포공항 출국장 군중 분석 시스템
-* 올림픽대로 여의 상류IC 지능형 도로 교통 시스템
-### In Playdata Bootcamp
-* 🔗 [AI 계장님 - 보험금 청구서 텍스트 인식 웹 서비스](https://github.com/playdata-aichief-ai/aichief-springboot-backend)
-* 🔗 [Welcome, JEJU - 제주도 관광지 검색 웹 서비스](https://github.com/playdata-july-web/july-spring-fullstack)
-* 🔗 [OTT 설문조사 - OTT 선호도 설문조사 웹 서비스](https://github.com/playdata-july-web/ottsurvey-java-fullstack)
-### In Kookmin university
-* 🔗 [나 혼자 운동 - 인공 지능을 활용한 홈 트레이닝 웹 게임](https://github.com/kookmin-sw/capstone-2020-24)
+* 공항 혼잡도 모니터링 시스템 | Vueron
+* 도로 교통 모니터링 시스템 | Vueron
+* 🔗 [AI 계장님 - 보험금 청구서 텍스트 인식 웹 서비스](https://github.com/playdata-aichief-ai/aichief-springboot-backend) | En-core
+* 🔗 [나 혼자 운동 - 인공 지능을 활용한 홈 트레이닝 웹 게임](https://github.com/kookmin-sw/capstone-2020-24) | Kookmin University
