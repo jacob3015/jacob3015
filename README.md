@@ -1,34 +1,50 @@
-<!---
-jacob3015/jacob3015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ## 👏 Introduce
-> 안녕하세요, 스타트업에서 15개월 동안 시스템 개발 및 운영을 담당한 박재민입니다.
-PoC부터 프로덕션 배포까지 전 과정에 참여하며 일일 200만 건 이상의 데이터를 안정적으로 처리하는 시스템을 구축하는 데 기여했습니다.
-gRPC와 Redis 등의 기술 도입을 통해 시스템 운영 효율성과 확장성을 개선한 경험이 있으며, 이러한 경험을 바탕으로 팀에 가치를 더하는 개발자로 성장하고자 합니다.
-새로운 기술을 활용해 실질적인 문제를 해결하는 데 관심이 많습니다.
-
-**핵심 역량**  
-- API 서버 개발  
-- 통신 프로토콜 설계  
-- 실시간 데이터 분석 시스템 개발 경험
+안녕하세요, Web Client & Api Server 개발자 박재민입니다.
 
 ## 💼 Experiences
-**Vueron | 2023.01 - 2024.04**
-- API 서버 개발
-- 통신 프로토콜 설계 및 유지 보수
-- 패키지 저장소 구축
-- 웹 서비스 유지 보수
+### Wujin Tns (2025.06 - )
+- Web Client & Api Server 개발 및 유지보수
+#### Projects in Wujin
+- 고중량 차량 자동 운행허가 시스템 개발 (2025.06 - )
+#### Key achievements in Wujin
+- Spring Data Jpa 기반 Entity 설계
+- Spring Security 기반 토큰(JWT) 인증 개발
+### Vueron (2023.01 - 2024.04)
+- Web Client & Api Server 개발 및 유지보수
+#### Projects in Vueron
+- LiDAR 플랫폼 개발 (2024.02 - 2024.04)
+- 공항 인파 분석 시스템 개발 (2023.08 - 2024.02)
+- 도로 교통 정보 분석 시스템 유지보수 (2023.01 - 2024.04)
+#### Key achievements in Vueron
+- gRPC 기반 통신 라이브러리 개발
+- Spring Boot, Redis, gRPC 기반 Api Server 개발
 
 ## 🎓 Education
-**Kookmin University**
-- Bachelor of Software
+Kookmin University (bachelor's degree in Software)
 
 ## 🔨 Skills
-Java, JavaScript, SQL, Spring Boot, Vue.js, MyBatis, Hibernate, PostgreSQL, Redis, gRPC, Protocol Buffer, REST, Nginx, Amazon EC2, Git
+### Web Client
+- React v19 (JavaScript)
+- Vue v3 (JavaScript)
+- Vite
 
-## 🌟 Projects
-* 공항 혼잡도 모니터링 시스템 | Vueron
-* 도로 교통 모니터링 시스템 | Vueron
-* 🔗 [AI 계장님 - 보험금 청구서 텍스트 인식 웹 서비스](https://github.com/playdata-aichief-ai/aichief-springboot-backend) | En-core
-* 🔗 [나 혼자 운동 - 인공 지능을 활용한 홈 트레이닝 웹 게임](https://github.com/kookmin-sw/capstone-2020-24) | Kookmin University
+### Api Server
+- Spring Boot v2/v3 (Java v11/v17/v21)
+- Spring Web
+- Spring Data Jpa / MyBatis
+- Spring Security
+- Gradle / Maven
+
+### Infra
+- PostgreSQL / MySQL
+- Redis
+- Nginx
+- AWS
+
+### Communication
+- REST / gRPC
+
+## 🌟 Toy Projects
+* 🔗 [감정 일기장](https://github.com/jacob3015/emotion-diary-repo)
+* 🔗 [AI 계장님 - 보험금 청구서 텍스트 인식 웹 서비스](https://github.com/playdata-aichief-ai/aichief-springboot-backend)
+* 🔗 [나 혼자 운동 - 인공 지능을 활용한 홈 트레이닝 웹 게임](https://github.com/kookmin-sw/capstone-2020-24)
