@@ -1,48 +1,63 @@
 ## 👏 Introduce
-안녕하세요, Web Client & Api Server 개발자 박재민입니다.
+안녕하세요, Full Stack을 지향하는 개발자 박재민입니다.
 
 ## 💼 Experiences
-### Wujin Tns (2025.06 - )
-- Web Client & Api Server 개발 및 유지보수
+### Wujin Tns (2025.06 - 2025.10)
+- Full Stack 개발
 #### Projects in Wujin
-- 고중량 차량 자동 운행허가 시스템 개발 (2025.06 - )
+- 국토교통부 고중량 차량 자동 운행허가 시스템 (2025.06 - 2025.10)
 #### Key achievements in Wujin
-- Spring Data Jpa 기반 Entity 설계
-- Spring Security 기반 토큰(JWT) 인증 개발
+- JWT(Json Web Token) 기반 인증 개발
+- FDW(Foreign Data Wrapper) 기반 이종 DB 연동
+- Naver Maps 기반 지도 상 장소 및 경로 표기
 ### Vueron (2023.01 - 2024.04)
-- Web Client & Api Server 개발 및 유지보수
+- Full Stack 개발
 #### Projects in Vueron
-- LiDAR 플랫폼 개발 (2024.02 - 2024.04)
-- 공항 인파 분석 시스템 개발 (2023.08 - 2024.02)
-- 도로 교통 정보 분석 시스템 유지보수 (2023.01 - 2024.04)
+- [LiDAR 플랫폼](https://vueron.ai/landing?redirect=%2F) (2024.02 - 2024.04)
+- [스마트 인파 분석 솔루션](https://www.vueron.com/ko/vuetwo-%eb%b7%b0%ed%88%ac/#:~:text=Download-,%EC%8A%A4%EB%A7%88%ED%8A%B8,%EC%86%94%EB%A3%A8%EC%85%98(VueFlow),-%EC%84%B8%EA%B3%84) (2023.08 - 2024.02)
+- [스마트 인프라 라이다 솔루션](https://www.vueron.com/ko/vuetwo-%eb%b7%b0%ed%88%ac/#:~:text=Play-,VueTwo,-VueTwo%EB%8A%94%20%ED%94%84%EB%9D%BC%EC%9D%B4%EB%B2%84%EC%8B%9C%EB%A5%BC) (2023.01 - 2024.04)
 #### Key achievements in Vueron
-- gRPC 기반 통신 라이브러리 개발
-- Spring Boot, Redis, gRPC 기반 Api Server 개발
+- gRPC 기반 데이터 중계
+- 솔루션 대시보드 개발
+- On-Premise & Cloud 기반 솔루션 구축
 
 ## 🎓 Education
 Kookmin University (bachelor's degree in Software)
 
 ## 🔨 Skills
-### Web Client
-- React v19 (JavaScript)
-- Vue v3 (JavaScript)
+
+### Front-end
+- JS, HTML, CSS
+- React
+- Vue
+- Node
 - Vite
 
-### Api Server
-- Spring Boot v2/v3 (Java v11/v17/v21)
+### Back-end
+- Java
+- Spring Boot
 - Spring Web
-- Spring Data Jpa / MyBatis
-- Spring Security
-- Gradle / Maven
+- Spring Secutiry
+- Spring Data Jpa
+- MyBatis
 
 ### Infra
-- PostgreSQL / MySQL
+- PostgreSQL
 - Redis
 - Nginx
 - AWS
 
 ### Communication
-- REST / gRPC
+- REST via HTTP & JSON
+- gRPC via HTTP & Protocol Buffer
+
+### Tool
+- Git
+- IntelliJ
+- Visual Studio Code
+- Jira
+- BitBucket
+- Confluence
 
 ## 🌟 Toy Projects
 * 🔗 [감정 일기장](https://github.com/jacob3015/emotion-diary-repo)
