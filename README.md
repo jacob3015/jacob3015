@@ -22,42 +22,26 @@
 - On-Premise & Cloud 기반 솔루션 구축
 
 ## 🎓 Education
-Kookmin University (bachelor's degree in Software)
+Bachelor's degree in Software - Kookmin University
 
 ## 🔨 Skills
 
-### Front-end
-- JS, HTML, CSS
-- React
-- Vue
-- Node
-- Vite
-
 ### Back-end
-- Java
-- Spring Boot
-- Spring Web
-- Spring Secutiry
-- Spring Data Jpa
-- MyBatis
+[![Back-end](https://skillicons.dev/icons?i=java,spring,hibernate,gradle,maven,linux)](https://skillicons.dev)
+
+### Front-end
+[![Front-end](https://skillicons.dev/icons?i=js,html,css,react,vue,astro,nodejs,npm,vite)](https://skillicons.dev)
 
 ### Infra
-- PostgreSQL
-- Redis
-- Nginx
-- AWS
+[![Infra](https://skillicons.dev/icons?i=aws,nginx,postgres,redis)](https://skillicons.dev)
 
 ### Communication
 - REST via HTTP & JSON
 - gRPC via HTTP & Protocol Buffer
 
 ### Tool
-- Git
-- IntelliJ
-- Visual Studio Code
-- Jira
-- BitBucket
-- Confluence
+[![Tool](https://skillicons.dev/icons?i=idea,vscode,figma,git,postman,md)](https://skillicons.dev)
+- Jira, BitBucket, Confluence
 
 ## 🌟 Toy Projects
 * 🔗 [감정 일기장](https://github.com/jacob3015/emotion-diary-repo)
