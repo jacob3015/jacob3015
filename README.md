@@ -1,5 +1,5 @@
 ## 👏 Introduce
-안녕하세요, Full Stack을 지향하는 개발자 박재민입니다.
+안녕하세요, Full Stack 개발자 박재민입니다.
 
 ## 💼 Experiences
 ### Wujin Tns (2025.06 - 2025.10)
