@@ -35,15 +35,6 @@ Bachelor's degree in Software - Kookmin University
 ### Infra
 [![Infra](https://skillicons.dev/icons?i=aws,nginx,postgres,redis)](https://skillicons.dev)
 
-### Communication
-- REST via HTTP & JSON
-- gRPC via HTTP & Protocol Buffer
-
-### Tool
-[![Tool](https://skillicons.dev/icons?i=idea,vscode,figma,git,postman,md)](https://skillicons.dev)
-- Jira, BitBucket, Confluence
-
 ## 🌟 Toy Projects
-* 🔗 [감정 일기장](https://github.com/jacob3015/emotion-diary-repo)
 * 🔗 [AI 계장님 - 보험금 청구서 텍스트 인식 웹 서비스](https://github.com/playdata-aichief-ai/aichief-springboot-backend)
 * 🔗 [나 혼자 운동 - 인공 지능을 활용한 홈 트레이닝 웹 게임](https://github.com/kookmin-sw/capstone-2020-24)
